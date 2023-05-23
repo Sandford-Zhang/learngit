@@ -1,2 +1,6 @@
 conflic
+
 addition from learngit_other
+
+addition from learngit
+
